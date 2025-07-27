@@ -87,7 +87,7 @@ library-management-system-javaee/
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/votre-username/library-management-system-javaee.git
+   git clone https://github.com/MbarekTech/library-management-system-javaee.git
    cd library-management-system-javaee
    ```
 
